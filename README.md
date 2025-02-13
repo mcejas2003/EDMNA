@@ -1,3 +1,4 @@
+![Alt text](images/EDMNA_PVI_32.png)
 # EDMNA
 Software application of numerical methods (Euler, Heun and finite differences) coded in Python and MatLab, as well as the graph in LaTeX and interactive graph in Python through matplotlib package.
 Also I include LaTeX graphs of the solution of an _initial value problem_ through Euler and Heun numerical method.
